@@ -1,0 +1,11 @@
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.exe.config
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.exe
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\PesoIdeal\PesoIdeal\bin\Debug\PesoIdeal.pdb
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csproj.AssemblyReference.cache
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.Form1.resources
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.Properties.Resources.resources
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csproj.GenerateResource.cache
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.csproj.CoreCompileInputs.cache
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.exe
+C:\Users\Astrinn\Documents\Estudos\Programação\C#\repository\Codes\PesoIdeal\PesoIdeal\obj\Debug\PesoIdeal.pdb
